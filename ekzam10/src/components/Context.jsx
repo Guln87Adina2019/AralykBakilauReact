@@ -1,5 +1,5 @@
-import Reac,{} from 'react'
 import { createContext } from 'react'
+const CardContext = createContext
 
 export default function Context() {
   return (
